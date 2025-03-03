@@ -1,7 +1,11 @@
 ## Hi there, It's Riyaasath 👋
+
 🔭 I’m currently studying on Computer Engineering ,University of Jaffna.
+
 🌱 I’m currently learning  Software Construction and Machine Learning.
+
 📫 Say Hi via riyaasath4483@gmail.com
+
 ⚡ Fun fact: I love to play football,cricket and chess.
 
 
