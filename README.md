@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, It's Riyaasath 👋
+🔭 I’m currently studying on Computer Engineering ,University of Jaffna.
+🌱 I’m currently learning  Software Construction and Machine Learning.
+📫 Say Hi via riyaasath4483@gmail.com
+⚡ Fun fact: I love to play football,cricket and chess.
+
 
 <!--
 **RiyaasathMJM/RiyaasathMJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
