@@ -6,7 +6,7 @@
 
 📫 Say Hi via riyaasath4483@gmail.com
 
-⚡ Fun fact: I love to play football,cricket and chess.
+⚡ Fun fact:Crazy on play football and chess.
 
 ### 💻 Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
