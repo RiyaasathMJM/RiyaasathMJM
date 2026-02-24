@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying on Computer Engineering ,University of Jaffna.
 
-🌱 I’m currently learning  Software Construction and Machine Learning.
+🌱 I’m currently learning  Software Engineering and Machine Learning.
 
 📫 Say Hi via riyaasath4483@gmail.com
 
